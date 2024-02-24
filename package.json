@@ -1,0 +1,23 @@
+{
+  "name": "restaurantpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krissny/RestaurantPage.git"
+  },
+  "author": "Krissny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krissny/RestaurantPage/issues"
+  },
+  "homepage": "https://github.com/Krissny/RestaurantPage#readme",
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
