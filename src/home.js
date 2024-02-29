@@ -1,7 +1,7 @@
 export default function () {
   const element = document.createElement("div");
   element.classList.add("content");
-  element.innerHTML = `<h1>Panda's</h1>
+  element.innerHTML = `<h1>Bamboo Delights</h1>
   <div class="About">
     <p>
       Bamboo Delights is a delightful choice for a panda-themed restaurant!
